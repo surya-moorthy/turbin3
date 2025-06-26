@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+
+# Wallets and secrets
+Turbin3-wallet.json
+dev-wallet.json
+*.key
+*.pem
+
+# Environment
+.env
