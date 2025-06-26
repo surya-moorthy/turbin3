@@ -26,7 +26,6 @@ PublicKey.findProgramAddressSync(account_seeds, program.programId);
 const mintCollection = new
 PublicKey("5ebsp5RChCGK7ssRZMVMufgVZhd2kFbNaotcZ5UvytN2");
 
-const phantom = new PublicKey("BSXwF7zsDp4tDVpVvnTRtCM9ANyw1CdG2X9S1w3RtjAq"); 
 
 const mintTs = Keypair.generate();
 
